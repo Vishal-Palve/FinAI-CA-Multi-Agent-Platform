@@ -2,9 +2,6 @@
 
 **Democratizing Financial Intelligence Through Multi-Agent AI**
 
-[![Next.js](https://img.shields.io/badge/Next.js-13-informational?style=flat&logo=nextdotjs)](https://nextjs.org)  [![FastAPI](https://img.shields.io/badge/FastAPI-0.95-informational?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
-
-Demo Video - https://www.youtube.com/watch?v=zZvB0BgM5pQ
 
 ## 🚀 Overview
 
@@ -90,8 +87,8 @@ All user documents are encrypted and securely stored:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/wemakedevs/finai-wemakedevs.git
-cd finai-wemakedevs
+git clone https://github.com/Vishal-Palve/FinAI-CA-Multi-Agent-Platform.git
+cd FinAI-CA-Multi-Agent-Platform
 ```
 
 ### 2. Backend Setup
@@ -194,5 +191,10 @@ itr_specialist:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 👨‍💻 Author
 
-**Built with ❤️ by The Neural Networks for the WeMAkeDevs Community**
+**Vishal Palve**
+
+---
+
+**Built with ❤️ for financial intelligence automation**
