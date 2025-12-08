@@ -187,9 +187,6 @@ itr_specialist:
 - `POST /asset/analyze` - Asset allocation recommendations
 - `POST /chatbot/chat` - AI chatbot interaction
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
