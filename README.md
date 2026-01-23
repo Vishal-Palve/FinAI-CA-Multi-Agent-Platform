@@ -195,3 +195,8 @@ itr_specialist:
 ---
 
 **Built with ❤️ for financial intelligence automation**
+
+## Contributors
+- Vishal Uttam Palve
+- Rudrani Patil
+
